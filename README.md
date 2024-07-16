@@ -27,7 +27,12 @@ To get the container image that is created from this repository, execute: `docke
 
 Use this repository and the docker image that it creates at your own risk!
 
+## 📝 License
+
+This project is licensed under the terms of the [MIT license][05].
+
 [01]: https://img.shields.io/github/actions/workflow/status/fernandobohrer/docker-ansible-rockylinux-9/build-test-and-push-docker-image.yml?branch=main&event=push&style=flat-square&logo=github&logoColor=white&label=Build%2C%20test%20and%20push%20docker%20image&labelColor=black&cacheSeconds=300
 [02]: https://github.com/fernandobohrer/docker-ansible-rockylinux-9/actions/workflows/build-test-and-push-docker-image.yml
 [03]: https://img.shields.io/docker/pulls/fernandobohrer/docker-ansible-rockylinux-9?style=flat-square&logo=docker&logoColor=white&label=pulls&labelColor=black&cacheSeconds=300
 [04]: https://hub.docker.com/r/fernandobohrer/docker-ansible-rockylinux-9/
+[05]: /LICENSE
